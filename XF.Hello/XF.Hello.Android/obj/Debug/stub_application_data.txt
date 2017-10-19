@@ -1,2 +1,0 @@
-android.app.Application
-XF.Hello.Android
